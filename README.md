@@ -11,9 +11,7 @@ The primary goal of this project is to develop and compare various machine learn
 ## Dataset
 
 - **Romania:** Hourly Electricity Consumption and Production data spanning five years, covering energy types such as nuclear, wind, hydroelectric, oil and gas, coal, solar, and biomass. [Link to Dataset](https://www.kaggle.com/datasets/stefancomanita/hourly-electricity-consumption-and-production)
-- **Turkey:** Hourly Energy Data from January 1, 2018, to December 31, 2023, including consumption and production details across different energy sources. [Link to Dataset](https://www.kaggle.com/datasets/ahmetzamanis/energy-consumption-and-pricing-trkiye-2018-2023)
-
-For a detailed walkthrough of our analysis, please refer to our [Colab Notebook](https://colab.research.google.com/drive/17vtI595vjk-2lM31nkHC882MbakxMzQe?usp=sharing).
+- **Turkey:** Hourly Energy Data from January 1, 2018, to December 31, 2023, including details on consumption and production across different energy sources. [Link to Dataset](https://www.kaggle.com/datasets/ahmetzamanis/energy-consumption-and-pricing-trkiye-2018-2023)
 
 ## Impact
 
@@ -32,10 +30,14 @@ This project provides actionable insights for energy producers, policymakers, an
 - **Libraries:**
   - Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, Keras, Matplotlib, Seaborn, Prophet
 
-To install the necessary libraries, use:
+- To install the necessary libraries, use:
 ```bash
 !pip install pandas numpy scikit-learn xgboost tensorflow keras matplotlib seaborn prophet
 ```
+
+## Explore the Work
+
+Feel free to explore our codebase, try different strategies, and understand our approach. For a detailed walkthrough of our analysis, please refer to our [Colab Notebook](https://colab.research.google.com/drive/17vtI595vjk-2lM31nkHC882MbakxMzQe?usp=sharing).
 
 ## Team
 
