@@ -13,6 +13,8 @@ The primary goal of this project is to develop and compare various machine learn
 - **Romania:** Hourly Electricity Consumption and Production data spanning five years, covering energy types such as nuclear, wind, hydroelectric, oil and gas, coal, solar, and biomass. [Link to Dataset](https://www.kaggle.com/datasets/stefancomanita/hourly-electricity-consumption-and-production)
 - **Turkey:** Hourly Energy Data from January 1, 2018, to December 31, 2023, including consumption and production details across different energy sources. [Link to Dataset](https://www.kaggle.com/datasets/ahmetzamanis/energy-consumption-and-pricing-trkiye-2018-2023)
 
+For a detailed walkthrough of our analysis, please refer to our [Colab Notebook](https://colab.research.google.com/drive/17vtI595vjk-2lM31nkHC882MbakxMzQe?usp=sharing).
+
 ## Impact
 
 This project provides actionable insights for energy producers, policymakers, and grid operators by enhancing the accuracy of short-term energy production forecasts. Improved forecasting can lead to better resource planning, increased grid stability, and more informed policy decisions, ultimately contributing to a more efficient and sustainable energy sector.
