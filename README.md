@@ -30,7 +30,7 @@ This project provides actionable insights for energy producers, policymakers, an
 - **Libraries:**
   - Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, Keras, Matplotlib, Seaborn, Prophet
 
-To install the necessary libraries, use:
+- To install the necessary libraries, use:
 ```bash
 !pip install pandas numpy scikit-learn xgboost tensorflow keras matplotlib seaborn prophet
 ```
